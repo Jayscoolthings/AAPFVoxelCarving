@@ -1,5 +1,8 @@
 # SorghumVoxelCarvingAAPF
 
+Description:
+A modified version of Mathieu Gaillard's SorghumVoxelCarving with several changes to improve ease of use.
+
 The most important part of getting the program functioning properly lies in making sure that the dependencies are properly set up. I have noticed many times that without properly configured dependencies, the program will fail without error, which is extremely frustrating. 
 
 First, make sure that you have Visual Studio installed, along with the Qt Visual Studio Tools extension. The Qt version isn't super important, but try to stick with a version that is named in the format of 5.xx.x_msvc2019_64. In the original readme, Mathieu recommends Qt version 5.12.0, but this version isn't available through the Qt Maintenance Tool anymore, so I've been using 5.15.0, which has not given any issues. 
